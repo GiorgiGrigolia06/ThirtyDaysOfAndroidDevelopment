@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">30 Days of Android</string>
+
+    <string name="day_1">Day 1</string>
+    <string name="day_1_summary">Start with the basics</string>
+    <string name="day_1_description">Find resources (developer.android.com) and start learning programming basics. Write simple Kotlin programs, create and use variables and functions.</string>
+
+    <string name="day_2">Day 2</string>
+    <string name="day_2_summary">Setup Android Studio</string>
+    <string name="day_2_description">Download and install Android Studio. If it looks overwhelming at first, don\'t worry! Everything you see will make sense in no time! Get your feet wet, edit the code and see how the outcome changes.</string>
+
+    <string name="day_3">Day 3</string>
+    <string name="day_3_summary">Build a basic layout</string>
+    <string name="day_3_description">Learn about Compose Basics and build a simple business card app. Use text as well as images in your app. Don\'t forget to see what you\'ve created in your emulator!</string>
+
+    <string name="day_4">Day 4</string>
+    <string name="day_4_summary">Learn Kotlin Fundamentals</string>
+    <string name="day_4_description">Learn more fundamentals of Kotlin, object-oriented programming, and lambdas. Write conditionals, get familiar with nullability, and lastly, read about classes and objects in Kotlin.</string>
+
+    <string name="day_5">Day 5</string>
+    <string name="day_5_summary">Buttons</string>
+    <string name="day_5_description">See how to respond to a button click in an Android app. There are so many amazing things you can achieve just by a simple button click! When you\'re ready, create an interactive Dice Roller app!</string>
+
+    <string name="day_6">Day 6</string>
+    <string name="day_6_summary">Interact with UI and state</string>
+    <string name="day_6_description">Familiarize yourself with state in Compose. See how you can manipulate UI by user input. Learn about state hoisting.</string>
+
+    <string name="day_7">Day 7</string>
+    <string name="day_7_summary">Project: Calculator</string>
+    <string name="day_7_description">Calculate a custom tip. Write automated tests. Use the knowledge you\'ve acquired to create a calculator app that calculates the tip.</string>
+
+    <string name="day_8">Day 8</string>
+    <string name="day_8_summary">Project: Art Space App</string>
+    <string name="day_8_description">Congratulations for coming this far! You already know a lot of stuff about Android Development and are ready to build an app that will display your favorite art pieces! Take your time and show us what you admire in art!</string>
+
+    <string name="day_9">Day 9</string>
+    <string name="day_9_summary">More Kotlin Fundamentals</string>
+    <string name="day_9_description">Learn additional Kotlin programming concepts that will enable you to build more interesting and fun Android apps! Use generics, objects, and extensions.</string>
+
+    <string name="day_10">Day 10</string>
+    <string name="day_10_summary">Collections in Kotlin</string>
+    <string name="day_10_description">Use collections in Kotlin. Collections help you store a bigger amount of data in a single place. Learn about the methods that\'ll help you to manipulate the collections.</string>
+
+    <string name="day_11">Day 11</string>
+    <string name="day_11_summary">Higher-order functions with collections</string>
+    <string name="day_11_description">You\'re already familiar with functions and higher-order functions. As you may agree, it\'s a lot of fun creating functions in Kotlin! I hope you got the pun! Anyways, learn more by exploring how they can be used in collections.</string>
+
+    <string name="day_12">Day 12</string>
+    <string name="day_12_summary">Scrollable lists</string>
+    <string name="day_12_description">Create an app that displays a scrollable list of text and images using Compose.</string>
+
+    <string name="day_13">Day 13</string>
+    <string name="day_13_summary">App icon</string>
+    <string name="day_13_description">Icons are one of the most important parts of every app. No matter what kind of an app we\'re talking about, each one needs one! Learn how you can change and optimize icons in Kotlin.</string>
+
+    <string name="day_14">Day 14</string>
+    <string name="day_14_summary">Build a grid</string>
+    <string name="day_14_description">Can you imagine how hard it would be if Android developers had to manually add every piece of content in the app! Fortunately, Jetpack Compose and its APIs give us many tools to make the job easier. In this section, let\'s explore the grid layout!</string>
+
+    <string name="day_15">Day 15</string>
+    <string name="day_15_summary">Material Design</string>
+    <string name="day_15_description">Let\'s make apps more beautiful and intuitive to use with Material Design, animations, and accessibility best practices. Today, you\'ll visit m3.material.io and learn about the ways that\'ll help you create beautiful apps with ease!</string>
+
+    <string name="day_16">Day 16</string>
+    <string name="day_16_summary">Simple animations</string>
+    <string name="day_16_description">Animations make user experience so much better. It makes the app for users more intuitive to use and looks so good when implemented correctly. Let\'s dive deep!</string>
+
+    <string name="day_17">Day 17</string>
+    <string name="day_17_summary">Testing for accessibility</string>
+    <string name="day_17_description">Test an app for accessibility and how to make your app accessible to more users. You\'ll learn how to interact with an app using TalkBack and Switch.</string>
+
+    <string name="day_18">Day 18</string>
+    <string name="day_18_summary">Project: Superheroes</string>
+    <string name="day_18_description">What\'s more amusing to watch than a new movie about your favorite superhero? Today, you\'ll get introduced to the Android superheroes and will create a beautiful app that showcases their names, images, and superpowers!</string>
+
+    <string name="day_19">Day 19</string>
+    <string name="day_19_summary">Project: 30 Days App</string>
+    <string name="day_19_description">Congratulations! You\'ve come a long way and learned so much! Give yourself a pat on the back! Why not polish what you\'ve learned by creating an app that displays 30 tips (one for each day of the month)! You ready? Let\'s go!</string>
+
+    <string name="day_20">Day 20</string>
+    <string name="day_20_summary">App architecture</string>
+    <string name="day_20_description">Learn about app architecture and how to use ViewModels, UI State, and StateFlow to build more complex apps.</string>
+
+    <string name="day_21">Day 21</string>
+    <string name="day_21_summary">Navigation in Jetpack Compose</string>
+    <string name="day_21_description">Learn how to use the Navigation component to build more complex apps with more screens and how to navigate and pass data between different composables.</string>
+
+    <string name="day_22">Day 22</string>
+    <string name="day_22_summary">Different screen sizes</string>
+    <string name="day_22_description">Today, you\'ll learn how to adapt your app to different screen sizes and provide a better user experience, as well as how to test your adaptive UI. You\'ll build an adaptive app with dynamic navigation.</string>
+
+    <string name="day_23">Day 23</string>
+    <string name="day_23_summary">Get data from the internet</string>
+    <string name="day_23_description">Implement coroutines to perform tasks concurrently without blocking the app, and learn about HTTP and REST to get data from the internet.</string>
+
+    <string name="day_24">Day 24</string>
+    <string name="day_24_summary">Load and display images from the internet</string>
+    <string name="day_24_description">Apply architecture best practices to the app and use Coil to download and display images.</string>
+
+    <string name="day_25">Day 25</string>
+    <string name="day_25_summary">Introduction to SQL</string>
+    <string name="day_25_description">Learn how to use SQL to read and manipulate data in a relational database. Use SQL to read and write to a database.</string>
+
+    <string name="day_26">Day 26</string>
+    <string name="day_26_summary">Use room for data persistence</string>
+    <string name="day_26_description">Use the Room library to easily create and use relational databases in an Android app. Read and update data with Room and build Bus Schedule app.</string>
+
+    <string name="day_27">Day 27</string>
+    <string name="day_27_summary">DataStore</string>
+    <string name="day_27_description">Learn how to store simple, key-value pair data with Preferences DataStore in an Android app. Save preferences locally with DataStore.</string>
+
+    <string name="day_28">Day 28</string>
+    <string name="day_28_summary">WorkManager</string>
+    <string name="day_28_description">Learn when and how to use WorkManager, an API that handles background work that needs to run regardless of whether the application process is still running.</string>
+
+    <string name="day_29">Day 29</string>
+    <string name="day_29_summary">Views and Compose</string>
+    <string name="day_29_description">Learn how to use Compose and the older UI toolkit based on Views side-by-side in the same app. You will learn interoperability APIs and best practices to add a new feature to an existing app in Views, use an existing library that uses Views, or use a UI component that is not yet available in Compose.</string>
+
+    <string name="day_30">Day 30</string>
+    <string name="day_30_summary">Views in Compose</string>
+    <string name="day_30_description">Learn how to add and use existing Views inside an app built with Jetpack Compose.</string>
+</resources>
